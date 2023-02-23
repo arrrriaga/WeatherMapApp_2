@@ -1,0 +1,17 @@
+.mapAndData {
+  height: 800px;
+}
+
+.mapContainer {
+  background-color: rgb(77, 158, 77);
+  height: 100%;
+}
+
+.chart1 {
+  height: 50%;
+  background-color: rgb(255, 102, 0);
+}
+.chart2 {
+  background-color: rgb(104, 26, 116);
+  height: 50%;
+}
